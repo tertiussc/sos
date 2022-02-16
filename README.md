@@ -13,6 +13,13 @@ The languages used will be **HTML5, CSS,PHP, Javascript, JQuery** and **MySQL**
 - Change password | Update profile
 - Forgotten password and new password
 - Email functionality with PHPMailer
+---
+- Upload a POP record
+- View POP records
+- search/filter POP records
+- Update POP records
+- Delete POP records
+- Email POP records
 
 # Frameworks and Plugins
 
