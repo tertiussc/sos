@@ -1,0 +1,12 @@
+/* Callouts */
+
+.callout-success {
+    border-left: 6px solid limegreen;
+    background-color: whitesmoke;
+    padding: 0.8em 0.5em;
+}
+.callout-danger {
+    border-left: 6px solid tomato;
+    background-color: whitesmoke;
+    padding: 0.8em 0.5em;
+}

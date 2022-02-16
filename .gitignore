@@ -1,0 +1,6 @@
+# ignore Folders
+/temp
+/node_modules
+
+# ignore file types
+*.zip
